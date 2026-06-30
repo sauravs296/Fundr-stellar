@@ -1,0 +1,10 @@
+export { HeroSection } from "@/components/home/HeroSection";
+export { SocialProofSection } from "@/components/home/SocialProofSection";
+export { PurposeSection } from "@/components/home/PurposeSection";
+export { FeaturedCampaignsSection } from "@/components/home/FeaturedCampaignsSection";
+export { CommunityStatsSection } from "@/components/home/CommunityStatsSection";
+export { QuickFundraisersSection } from "@/components/home/QuickFundraisersSection";
+export { VisionSection } from "@/components/home/VisionSection";
+export { ImpactStoriesSection } from "@/components/home/ImpactStoriesSection";
+export { FaqSection } from "@/components/home/FaqSection";
+export { FeedbacksSection } from "@/components/home/FeedbacksSection";
